@@ -1,0 +1,34 @@
+pull request - solicita alteração no codigo
+merge pull - aceita a solicitação de alteração e joga na main.
+
+
+Criar repositorio publico.
+
+
+git clone link - clonar baixar o git
+fork - criar uma branch aparti da primaria
+git pull - atualizar os arquivos na branch atual.
+git push -u origin master - enviar arquivos para o repositorio remoto " git pull "
+git init - criar um repositorio
+git status - verificar o estado dos arquivos
+git add . - add todos os arquivos no diretorio
+git commit (nome do arquivo ou não) -m "minha mensagem de commit" - comentar o commit
+git rm (nome do arquivo) - remover o arquivo
+git log - exibir historico
+git remote ou git remote -v   - exibir repositorios remotos
+git remote add origin link - vincular um local com repositorio remoto
+git remote rename origin novonome - mudar nome do repositorio
+git remote rm nomedorepositorio - remover repositorio remoto
+git checkout main - mudar da master para a main
+code. - abre o vscode
+
+fluxo de git - clonar
+git clone link - clona o arquivo (baixa)
+cd pastaquequer - escolhe a pasta
+code. - ver quem editou
+
+fluxo editar aquivo
+git status
+git add nomedoaquivo.txt ou .
+git commit -m "descrição do commit"
+
